@@ -1,0 +1,7 @@
+E:\BITM-Git-2\Rays\RayClassification\RayClassification\bin\Debug\RayClassification.exe.config
+E:\BITM-Git-2\Rays\RayClassification\RayClassification\bin\Debug\RayClassification.exe
+E:\BITM-Git-2\Rays\RayClassification\RayClassification\bin\Debug\RayClassification.pdb
+E:\BITM-Git-2\Rays\RayClassification\RayClassification\obj\Debug\RayClassification.csprojAssemblyReference.cache
+E:\BITM-Git-2\Rays\RayClassification\RayClassification\obj\Debug\RayClassification.csproj.CoreCompileInputs.cache
+E:\BITM-Git-2\Rays\RayClassification\RayClassification\obj\Debug\RayClassification.exe
+E:\BITM-Git-2\Rays\RayClassification\RayClassification\obj\Debug\RayClassification.pdb
